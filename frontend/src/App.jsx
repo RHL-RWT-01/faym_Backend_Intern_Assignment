@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const userId = "user-123"; // Replace with dynamic user_id if needed
+const userId = "user-123"; // dummy/demo user ID
 
 export default function App() {
   useEffect(() => {
